@@ -1,6 +1,6 @@
 from sklearn import tree
 from sklearn.metrics import accuracy_score
-from SKL.classifiers import Data
+from SKL.mClassifiers import Data
 
 
 tree_clf = tree.DecisionTreeClassifier()

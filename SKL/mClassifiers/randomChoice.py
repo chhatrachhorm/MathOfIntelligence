@@ -1,5 +1,5 @@
 import random
-from SKL.classifiers import Data
+from SKL.mClassifiers import Data
 from sklearn.metrics import accuracy_score
 
 class RandomClassifier():
